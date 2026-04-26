@@ -1,0 +1,30 @@
+num = 10/5
+
+print (num)
+
+x, y, z, f = 0, 5, 6, 6
+
+print(y)
+
+
+#Try it yourself numbers
+
+abc = 5+3
+
+cba = 16/2
+
+acb = 16-8
+
+abb = 4*2
+
+print (abc)
+print (cba)
+print (acb)
+print (abb)
+
+#favorite numbre
+
+favorite_num = 23
+
+print (f"my favorite number is: {favorite_num}")
+
